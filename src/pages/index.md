@@ -1,16 +1,32 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: JCI Sibiu
+image: /img/slider-1.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Vrei sa ni te alaturi?
+  description: >-
+    Junior Chamber International (JCI) este cea mai importantă organizaţie
+    pentru tinerii lideri şi antreprenori din lume.
+
+
+    Prima organizaţie locală, prin transformarea şi extinderea căreia s-a creat
+    JCI, a fost înfiinţată în 1915, în SUA. Junior Chamber International a
+    devenit o organizaţie internaţională în 1944.
+
+
+    Având peste 200.000 de membri activi în peste 120 de ţări şi milioane de
+    alumni, care se implică în numeroase proiecte şi programe de dezvoltare, JCI
+    militează pentru implicarea tinerilor în viaţa economică, politică şi
+    socială a comunităţii lor.
+
+
+    Peste tot în lume, membrii JCI sunt tineri antreprenori,
+    liber-profesionişti, decidenţi de nivel mediu cu funcţii administrative sau
+    politice, sau manageri şi directori de departamente din companii, din
+    academie, jurnalişti sau studenţi – cu vârsta cuprinsă între 18 şi 40 de
+    ani. Află mai multe!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +84,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
