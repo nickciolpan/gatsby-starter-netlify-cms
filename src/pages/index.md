@@ -2,14 +2,16 @@
 templateKey: index-page
 title: JCI Sibiu
 image: /img/slider-1.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: O REȚEA INTERNATIONALĂ DE TINERI CETĂȚENI ACTIVI
+subheading: >-
+  Support sustainable farming while enjoying a cJunior Chamber International
+  (JCI) este cea mai mare comunitate de tineri lideri și antreprenori. Scopul
+  nostru este să producem schimbări pozitive în comunitate și să devenim mai
+  buni. JCI e prezent în mai mult de 100 de țări și 6.000 de comunități, iar la
+  nivel internațional are peste 200.000 membri.up
 mainpitch:
   title: Vrei sa ni te alaturi?
   description: >-
-    Junior Chamber International (JCI) este cea mai importantă organizaţie
-    pentru tinerii lideri şi antreprenori din lume.
-
 
     Prima organizaţie locală, prin transformarea şi extinderea căreia s-a creat
     JCI, a fost înfiinţată în 1915, în SUA. Junior Chamber International a
